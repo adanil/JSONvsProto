@@ -1,0 +1,4 @@
+JMH S 34 org.example.SerializationBenchmark S 72 org.example.generated.SerializationBenchmark_deserializeProtobuf_jmhTest S 19 deserializeProtobuf S 10 Throughput E A 1 1 1 E I 1 5 T 7 5000 ms E I 1 5 T 7 5000 ms E I 1 1 E E E E E E U 7 SECONDS E E 
+JMH S 34 org.example.SerializationBenchmark S 68 org.example.generated.SerializationBenchmark_deserializeJson_jmhTest S 15 deserializeJson S 10 Throughput E A 1 1 1 E I 1 5 T 7 5000 ms E I 1 5 T 7 5000 ms E I 1 1 E E E E E E U 7 SECONDS E E 
+JMH S 34 org.example.SerializationBenchmark S 70 org.example.generated.SerializationBenchmark_serializeProtobuf_jmhTest S 17 serializeProtobuf S 10 Throughput E A 1 1 1 E I 1 5 T 7 5000 ms E I 1 5 T 7 5000 ms E I 1 1 E E E E E E U 7 SECONDS E E 
+JMH S 34 org.example.SerializationBenchmark S 66 org.example.generated.SerializationBenchmark_serializeJson_jmhTest S 13 serializeJson S 10 Throughput E A 1 1 1 E I 1 5 T 7 5000 ms E I 1 5 T 7 5000 ms E I 1 1 E E E E E E U 7 SECONDS E E 
